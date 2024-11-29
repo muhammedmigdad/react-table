@@ -107,7 +107,7 @@ export default function Forms() {
     </form>
 </div>
 
-    <div className="text-white bg-[#000000] w-[450px] h-[400px]" id='display'>
+    <div className="text-white bg-[#000000]  mt-5 w-[450px] h-[400px]" id='display'>
    
     </div>
 
